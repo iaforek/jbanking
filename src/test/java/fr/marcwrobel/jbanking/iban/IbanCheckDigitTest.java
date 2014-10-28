@@ -95,8 +95,7 @@ public class IbanCheckDigitTest {
             "AE297997987743698771526",
             "GB40CUFM27126929790073",
             "VG88DQDO8896564297833915",
-            "YY62DRWQ354548673SC833V5AMLYPNNR78",
-            "ZZ70JJXD3109729650459XALAO5L68UDTR1"
+            "YY62DRWQ354548673SC833V5AMLYPNNR78"
     );
 
     @Test(expected = IllegalArgumentException.class)
